@@ -1,9 +1,8 @@
 
 # **Simple Shell Library API Documentation**
 
-The **Simple Shell Library** is a lightweight, extensible, and easy-to-use library for integrating a shell into your C applications. It supports features like command execution, input/output redirection, job control, custom commands, and more.
+The **Simple Shell Library** is a single header, lightweight, extensible, and easy-to-use library for integrating a shell into your C applications. It supports features like command execution, input/output redirection, job control, custom commands, and more.
 
----
 
 ## **Table of Contents**
 1. [Initialization and Cleanup](#initialization-and-cleanup)
@@ -16,7 +15,6 @@ The **Simple Shell Library** is a lightweight, extensible, and easy-to-use libra
 8. [Prompt Customization](#prompt-customization)
 9. [Example Usage](#example-usage)
 
----
 
 ### **Initialization and Cleanup**
 
